@@ -5,7 +5,7 @@
    <description>Es una página web para ver hoteles y lugares interesantes.</description>
  
    <image>
-     <url>https://abelsaba06.github.io/imagenes/Avion%20inicio.webp</url>
+     <url>https://abelsaba06.github.io/Web_LugaresBaratosparavisitar.github.io/imagenes/Avion%20inicio.webp</url>
      <title>RSS Abel Sabater</title>
      <link>https://abelsaba06.github.io</link>
    </image>
@@ -16,125 +16,20 @@
      <description>Es el índice de la página</description>
      <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
    </item>
- 
+
    <item>
-     <title>Royce Hotel and Casino</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HF</link>
+     <title>Paises</title>
+     <link>https://abelsaba06.github.io/Web_LugaresBaratosparavisitar.github.io/Paises.html</link>
+     <description>Es la página de paises </description>
      <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
    </item>
- 
+
    <item>
-     <title>Seda Manila Bay</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HF</link>
+     <title>Hoteles</title>
+     <link>https://abelsaba06.github.io/Web_LugaresBaratosparavisitar.github.io/Hoteles.html</link>
+     <description>Es la página de paises </description>
      <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
    </item>
- 
-   <item>
-     <title>Hotel101-Fort</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HF</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Larisa Shilma</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HI</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Snow Valley Resorts Shilma</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HI</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Shahi Palace Hotel</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HI</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Domus Hotel</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HL</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Legere Hotel Luxembourg</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HL</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Empire</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HL</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Tune Hotel Klia Klia2</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HM</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Ibis Melaka</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HM</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Bayview Beach Resort</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HM</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Recreo Hotel</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HP</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Hotel Jungle House</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HP</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Inkas Land</title>
-     <link>https://abelsaba06.github.io/Hoteles.html#HP</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Filipinas</title>
-     <link>https://abelsaba06.github.io/Paises.html#F</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Indias</title>
-     <link>https://abelsaba06.github.io/Paises.html#I</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Luxemburgo</title>
-     <link>https://abelsaba06.github.io/Paises.html#L</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Malasia</title>
-     <link>https://abelsaba06.github.io/Paises.html#M</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
- 
-   <item>
-     <title>Peru</title>
-     <link>https://abelsaba06.github.io/Paises.html#P</link>
-     <pubDate>Sat, 22 Feb 2025 21:30:00 GMT</pubDate>
-   </item>
+   
  </channel>
 </rss>
